@@ -5,7 +5,18 @@ description: >-
   company with operations focused in the United States, Canada, and other
   international locations.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/murphy-oil.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/murphy-oil/refs/heads/main/apis.yml
 tags:
