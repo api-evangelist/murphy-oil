@@ -1,7 +1,9 @@
 ---
 title: 10th Annual AI in Oil & Gas Conference
 url: https://www.industryevents.com/events/10th-annual-ai-in-oil-gas-conference
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Murphy Oil" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Murphy Oil makes oil discovery in exploration well offshore ...
 url: https://www.oilandgas360.com/murphy-oil-makes-oil-discovery-in-exploration-well-offshore-vietnam/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Murphy Oil" press release artificial intelligence'
 position: 1
 source: serpapi-google
